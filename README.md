@@ -1,7 +1,15 @@
-# lab-automation-python
-This repository contains Python tools I developed to streamline data analysis and quality control in a laboratory setting.
-* Data Manipulation: Using Pandas to filter and analyze sample batches.
+# Computational Bio Learning Portfolio
 
-Automation: Using functions and logic to standardize result reporting.
+This repository documents my self-directed training in Python, data analysis,
+and computational biology with a focus on building reproducible, portfolio-ready work.
 
-Precision: Implementing formatted f-strings for scientific notation/decimal accuracy
+## Structure
+- `python-foundations/` — core Python skills (loops, functions, plotting)
+- `single-cell/` — future work with pandas, Scanpy, and biological datasets
+- `ml-basics/` — introductory machine learning concepts
+- `assets/` — figures and supporting files
+
+## Tools
+- Python
+- JupyterLab
+- matplotlib
