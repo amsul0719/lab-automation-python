@@ -1,0 +1,4 @@
+compound,target,mechanism
+DMSO,NA,vehicle
+Cmpd_A,Target_X,agonist
+Cmpd_B,Target_Y,antagonist

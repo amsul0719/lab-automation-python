@@ -1,0 +1,7 @@
+sample_id,compound,dose,phenotype_score
+S1,DMSO,0,0.01
+S2,DMSO,0,0.00
+S3,Cmpd_A,1,0.55
+S4,Cmpd_A,2,0.82
+S5,Cmpd_B,1,0.24
+S6,Cmpd_B,2,0.38
